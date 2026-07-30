@@ -1,5 +1,5 @@
-# Mooncell FGO wiki正體中文化｜繁體中文化
-Mooncell FGO wiki正體中文化｜繁體中文化
+# Mooncell FGO wiki台版中文化
+Mooncell FGO wiki台版中文化
 
 旨在為Mooncell的英靈匹配台版進度譯名，並能使用新同文堂擴充匯入.json檔替換顯示。
 
