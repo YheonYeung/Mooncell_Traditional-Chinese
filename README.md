@@ -6,7 +6,7 @@ Mooncell FGO wiki台版中文化
 會替換掉日文中的殘體字，人工智障沒辦法。
 
 首先安裝Chrome擴充——新同文堂
-[https://chromewebstore.google.com/detail/%E6%96%B0%E5%90%8C%E6%96%87%E5%A0%82/ldmgbgaoglmaiblpnphffibpbfchjaeg](https://chromewebstore.google.com/detail/new-tongwentang/ldmgbgaoglmaiblpnphffibpbfchjaeg)
+https://chromewebstore.google.com/detail/new-tongwentang/ldmgbgaoglmaiblpnphffibpbfchjaeg
 
 然後下載.json檔https://github.com/YheonYeung/Mooncell_Traditional-Chinese/releases/download/Download/FGO.json
 
